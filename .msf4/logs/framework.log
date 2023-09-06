@@ -1,0 +1,118 @@
+[09/04/2023 16:11:56] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/04/2023 16:11:58] [e(0)] core: Failed to connect to the database: No database YAML file
+[09/04/2023 16:11:58] [d(0)] core: Created user based module store
+[09/04/2023 16:18:39] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/04/2023 16:24:32] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/04/2023 16:24:35] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[09/04/2023 16:26:33] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[09/04/2023 16:26:57] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[09/04/2023 16:30:28] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/04/2023 16:34:56] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/04/2023 16:39:21] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/04/2023 16:39:23] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[09/04/2023 16:40:55] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[09/04/2023 16:41:08] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[09/05/2023 17:39:12] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 17:39:14] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 17:39:14] [e(0)] core: DB.connect threw an exception - ActiveRecord::ConnectionNotEstablished could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 17:39:14] [e(0)] core: Failed to connect to the database: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 17:47:01] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 17:50:52] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 17:50:54] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 17:52:08] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[09/05/2023 17:52:32] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[09/05/2023 18:52:48] [e(0)] core: ArgumentError : invalid payload: android/meterpreter/reverse_tpc
+/opt/metasploit-framework/embedded/framework/lib/msf/core/payload_generator.rb:163:in `initialize'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:476:in `new'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:476:in `<main>'
+[09/05/2023 18:53:55] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 18:56:39] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 18:56:40] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 18:57:30] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[09/05/2023 18:57:42] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[09/05/2023 19:00:15] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 19:17:59] [e(0)] core: Exploit failed (multi/handler): Interrupt  - Interrupt 
+[09/05/2023 19:20:03] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 21:11:09] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 21:11:12] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:11:12] [e(0)] core: DB.connect threw an exception - ActiveRecord::ConnectionNotEstablished could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:11:12] [e(0)] core: Failed to connect to the database: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:43:23] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 21:43:26] [i(0)] core: Trying to continue despite failed database creation: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:43:26] [e(0)] core: DB.connect threw an exception - ActiveRecord::ConnectionNotEstablished could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:43:26] [e(0)] core: Failed to connect to the database: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5433?
+
+[09/05/2023 21:47:53] [e(0)] core: Unexpected output running /opt/metasploit-framework/embedded/framework/modules/exploits/linux/smtp/haraka.py:
+/opt/metasploit-framework/embedded/framework/modules/exploits/linux/smtp/haraka.py:14: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import StrictVersion
+
+[09/05/2023 21:48:13] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py failed to load - LoadError  Try running file manually to check for errors or dependency issues.
+[09/05/2023 21:48:18] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/host_id.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:48:18] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/exchange_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:48:18] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/onprem_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:48:54] [w(0)] core: The following modules could not be loaded!
+[09/05/2023 21:48:54] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py
+[09/05/2023 21:48:54] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/host_id.go
+[09/05/2023 21:48:54] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/exchange_enum.go
+[09/05/2023 21:48:54] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/onprem_enum.go
+[09/05/2023 21:50:34] [e(0)] core: Errno::ENOENT No such file or directory - git
+[09/05/2023 21:55:22] [e(0)] core: Unexpected output running /opt/metasploit-framework/embedded/framework/modules/exploits/linux/smtp/haraka.py:
+/opt/metasploit-framework/embedded/framework/modules/exploits/linux/smtp/haraka.py:14: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import StrictVersion
+
+[09/05/2023 21:55:47] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py failed to load - LoadError  Try running file manually to check for errors or dependency issues.
+[09/05/2023 21:55:53] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/host_id.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:55:53] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/exchange_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:55:53] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/onprem_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 21:56:35] [w(0)] core: The following modules could not be loaded!
+[09/05/2023 21:56:35] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py
+[09/05/2023 21:56:35] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/host_id.go
+[09/05/2023 21:56:36] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/exchange_enum.go
+[09/05/2023 21:56:36] [w(0)] core: 	/opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/onprem_enum.go
+[09/05/2023 21:57:19] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 21:57:22] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[09/05/2023 21:59:09] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[09/05/2023 21:59:51] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[09/05/2023 22:15:16] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py failed to load - LoadError  Try running file manually to check for errors or dependency issues.
+[09/05/2023 22:15:16] [w(0)] core: Removing invalid module reference from cache: gather/office365userenum
+[09/05/2023 22:16:29] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/exchange_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 22:16:29] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/exchange_enum
+[09/05/2023 22:16:29] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/host_id.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 22:16:29] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/host_id
+[09/05/2023 22:16:29] [e(0)] core: /opt/metasploit-framework/embedded/framework/modules/auxiliary/scanner/msmail/onprem_enum.go failed to load - LoadError Failed to execute external Go module. Please ensure you have Go installed on your environment.
+[09/05/2023 22:16:29] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/onprem_enum
+[09/05/2023 22:24:20] [w(0)] core: Removing invalid module reference from cache: cmd/windows/http/x64/encrypted_shell/reverse_tcp
+[09/05/2023 22:24:20] [w(0)] core: Removing invalid module reference from cache: cmd/windows/http/x64/encrypted_shell_reverse_tcp
+[09/05/2023 22:24:44] [w(0)] core: Removing invalid module reference from cache: cmd/windows/https/x64/encrypted_shell/reverse_tcp
+[09/05/2023 22:24:44] [w(0)] core: Removing invalid module reference from cache: cmd/windows/https/x64/encrypted_shell_reverse_tcp
+[09/05/2023 22:27:38] [w(0)] core: Removing invalid module reference from cache: cmd/windows/powershell/x64/encrypted_shell/reverse_tcp
+[09/05/2023 22:27:54] [w(0)] core: Removing invalid module reference from cache: cmd/windows/tftp/x64/encrypted_shell/reverse_tcp
+[09/05/2023 22:27:54] [w(0)] core: Removing invalid module reference from cache: cmd/windows/tftp/x64/encrypted_shell_reverse_tcp
+[09/05/2023 22:30:33] [w(0)] core: Removing invalid module reference from cache: windows/x64/encrypted_shell/reverse_tcp
+[09/05/2023 22:30:33] [w(0)] core: Removing invalid module reference from cache: windows/x64/encrypted_shell_reverse_tcp
